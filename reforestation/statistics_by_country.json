@@ -1,0 +1,2245 @@
+{
+  "data": [
+    {
+      "id": "afg",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ala",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "alb",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "dza",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "asm",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "and",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ago",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "aia",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ata",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "atg",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "arg",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "arm",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "abw",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "aus",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "aut",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "aze",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "bhs",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "bhr",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "bgd",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "brb",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "blr",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "bel",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "blz",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ben",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "bmu",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "btn",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "bol",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "bes",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "bih",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "bwa",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "bvt",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "bra",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "iot",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "brn",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "bgr",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "bfa",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "bdi",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "cpv",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "khm",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "cmr",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "can",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "cym",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "caf",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "td",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "chl",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "chn",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "cxr",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "cck",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "col",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "com",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "cod",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "cog",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "cok",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "cri",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "hrv",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "cub",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "cuw",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "cyp",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "cze",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "civ",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "dnk",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "dji",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "dma",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "dom",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ecu",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "egy",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "slv",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "gnq",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "eri",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "est",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "swz",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "eth",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "flk",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "fro",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "fji",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "fin",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "fra",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "guf",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "pyf",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "atf",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "gab",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "gmb",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "geo",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "deu",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "gha",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "gib",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "grc",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "grl",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "grd",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "glp",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "gum",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "gtm",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ggy",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "gin",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "gnb",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "guy",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "hti",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "hmd",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "vat",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "hnd",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "hkg",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "hun",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "isl",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ind",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "idn",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "irn",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "irq",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "irl",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "imn",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "isr",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ita",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "jam",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "jpn",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "jey",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "jor",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "kaz",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ken",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "kir",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "prk",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "kor",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "kwt",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "kgz",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "lao",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "lva",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "lbn",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "lso",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "lbr",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "lby",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "lie",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ltu",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "lux",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mac",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mdg",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mwi",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mys",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mdv",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mli",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mlt",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mhl",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mtq",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mrt",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mus",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "myt",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mex",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "fsm",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mda",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mco",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mng",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mne",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "msr",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mar",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "moz",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mmr",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "nam",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "nru",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "npl",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "nld",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ncl",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "nzl",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "nic",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ner",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "nga",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "niu",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "nfk",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mnp",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "nor",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "omn",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "pak",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "plw",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "pse",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "pan",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "png",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "pry",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "per",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "phl",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "pcn",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "pol",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "prt",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "pri",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "qat",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "mkd",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "rou",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "rus",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "rwa",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "reu",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "blm",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "shn",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "kna",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "lca",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "maf",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "spm",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "vct",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "wsm",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "smr",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "stp",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "sau",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "sen",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "srb",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "syc",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "sle",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "sgp",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "sxm",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "svk",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "svn",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "slb",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "som",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "zaf",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "sgs",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ssd",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "esp",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "lka",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "sdn",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "sur",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "sjm",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "swe",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "che",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "syr",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "twn",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "tjk",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "tza",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "tha",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "tls",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "tgo",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "tkl",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ton",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "tto",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "tun",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "tur",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "tkm",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "tca",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "tuv",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "uga",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ukr",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "are",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "gbr",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "umi",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "usa",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ury",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "uzb",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "vut",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "ven",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "vnm",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "vgb",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "vir",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "wlf",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "esh",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "yem",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "zmb",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    },
+    {
+      "id": "zwe",
+      "statistics": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      }
+    }
+  ]
+}
