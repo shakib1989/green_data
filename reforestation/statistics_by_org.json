@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "id": "company.1",
+      "name": "Unil",
+      "image": {
+        "url": "https://placehold.co/600x400/FF5733/FFFFFF?text=Unil"
+      },
+      "statistics": {
+        "daily": 120,
+        "weekly": 800,
+        "monthly": 3500,
+        "yearly": 40000
+      }
+    },
+    {
+      "id": "organization.2",
+      "name": "One Tree Planted",
+      "image": {
+        "url": "https://placehold.co/600x400/33FF57/FFFFFF?text=One+Tree+Planted"
+      },
+      "statistics": {
+        "daily": 5000,
+        "weekly": 35000,
+        "monthly": 150000,
+        "yearly": 1800000
+      }
+    },
+    {
+      "id": "organization.3",
+      "name": "Arbor Day Foundation",
+      "image": {
+        "url": "https://placehold.co/600x400/3357FF/FFFFFF?text=Arbor+Day+Foundation"
+      },
+      "statistics": {
+        "daily": 7500,
+        "weekly": 50000,
+        "monthly": 200000,
+        "yearly": 2500000
+      }
+    },
+    {
+      "id": "organization.4",
+      "name": "Trees for the Future",
+      "image": {
+        "url": "https://placehold.co/600x400/FF33A1/FFFFFF?text=Trees+for+the+Future"
+      },
+      "statistics": {
+        "daily": 1500,
+        "weekly": 10000,
+        "monthly": 45000,
+        "yearly": 500000
+      }
+    },
+    {
+      "id": "company.5",
+      "name": "Ecosia",
+      "image": {
+        "url": "https://placehold.co/600x400/A133FF/FFFFFF?text=Ecosia"
+      },
+      "statistics": {
+        "daily": 25000,
+        "weekly": 175000,
+        "monthly": 750000,
+        "yearly": 9000000
+      }
+    },
+    {
+      "id": "organization.6",
+      "name": "National Forest Foundation",
+      "image": {
+        "url": "https://placehold.co/600x400/33FFF1/FFFFFF?text=National+Forest+Foundation"
+      },
+      "statistics": {
+        "daily": 800,
+        "weekly": 5500,
+        "monthly": 22000,
+        "yearly": 250000
+      }
+    }
+  ]
+}
