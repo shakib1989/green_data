@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "person.1",
+      "name": "Alice Smith",
+      "image": {
+        "url": "https://placehold.co/600x400/FF5733/FFFFFF?text=Alice+Smith"
+      },
+      "count": 365
+    },
+    {
+      "id": "person.2",
+      "name": "Bob Johnson",
+      "image": {
+        "url": "https://placehold.co/600x400/33FF57/FFFFFF?text=Bob+Johnson"
+      },
+      "count": 210
+    },
+    {
+      "id": "person.3",
+      "name": "Charlie Brown",
+      "image": {
+        "url": "https://placehold.co/600x400/3357FF/FFFFFF?text=Charlie+Brown"
+      },
+      "count": 480
+    },
+    {
+      "id": "person.4",
+      "name": "Diana Miller",
+      "image": {
+        "url": "https://placehold.co/600x400/FF33A1/FFFFFF?text=Diana+Miller"
+      },
+      "count": 120
+    },
+    {
+      "id": "person.5",
+      "name": "Eve Davis",
+      "image": {
+        "url": "https://placehold.co/600x400/A133FF/FFFFFF?text=Eve+Davis"
+      },
+      "count": 260
+    },
+    {
+      "id": "person.6",
+      "name": "Frank White",
+      "image": {
+        "url": "https://placehold.co/600x400/33FFF1/FFFFFF?text=Frank+White"
+      },
+      "count": 420
+    }
+  ]
+}
