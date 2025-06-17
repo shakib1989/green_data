@@ -37,7 +37,7 @@
       "id": "mission.2",
       "title": "Mission 2",
       "summary": "A Short Summary",
-      "from": "2025-6-01T00:00:00Z",
+      "from": "2025-06-01T00:00:00Z",
       "to": "2025-10-07T23:59:59Z",
       "banner": { "url": "https://placehold.co/600x400/FF5733/FFFFFF?text=O1" },
       "organizers": [
@@ -70,8 +70,8 @@
       "id": "mission.3",
       "title": "Mission 3",
       "summary": "A Short Summary",
-      "from": "2025-6-01T00:00:00Z",
-      "to": "2025-6-07T23:59:59Z",
+      "from": "2025-06-01T00:00:00Z",
+      "to": "2025-06-07T23:59:59Z",
       "banner": { "url": "https://placehold.co/600x400/FF5733/FFFFFF?text=O1" },
       "organizers": [
         {
@@ -103,7 +103,7 @@
       "id": "mission.4",
       "title": "Mission 4",
       "summary": "A Short Summary",
-      "from": "2025-6-17T00:00:00Z",
+      "from": "2025-06-17T00:00:00Z",
       "to": "2025-10-07T23:59:59Z",
       "banner": { "url": "https://placehold.co/600x400/FF5733/FFFFFF?text=O1" },
       "organizers": [
